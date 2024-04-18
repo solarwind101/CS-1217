@@ -4,6 +4,10 @@ CS 1217 - Operating System
 Assignment 4
 
 Floyd Warshall Algorithm using Multithreading
+To compile:
+
+gcc A4.c -o A4
+./A4
 
   */
 
