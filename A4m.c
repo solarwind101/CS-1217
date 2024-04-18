@@ -1,15 +1,23 @@
 /*
-Suraj Sharam
-CS 1217 - Operating System
-Assignment 4
+    Author: Suraj Sharma
+    Course: CS 1217 - Operating System
+    Assignment: 4
 
-Floyd Warshall Algorithm using Multithreading
-To compile:
+    Description:
+    This program implements the Floyd Warshall Algorithm using multithreading.
+.
 
-gcc A4.c -o A4
-./A4
+    Compilation:
+    gcc A4.c -o A4
+    ./A4
 
-  */
+ 
+    Binary A4 included:
+   1. OS Required: Ubuntu 22.04.4 LTS
+   2. (For Windows/Mac, recompilation may be necessary)
+    
+*/
+
 
 #include <stdio.h>
 #include <pthread.h>
